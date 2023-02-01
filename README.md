@@ -7,7 +7,7 @@ Rebuilding the dependency schema in a python project written by others could be 
 2. pydot
 
 ## Application launch
-copy Simple_Code_Safari_Python.py into the project folder you want to analyze, an image called code_map.png will be created.
+Copy Simple_Code_Safari_Python.py into the project folder you want to analyze, an image called code_map.png will be created.
 
 ## Example
 
