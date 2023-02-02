@@ -11,6 +11,6 @@ Copy Simple_Code_Safari_Python.py into the project folder you want to analyze, a
 
 ## Example
 
-![](code_map_example.png)
+![](code_map.png)
 
 
