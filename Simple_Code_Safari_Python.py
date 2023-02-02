@@ -40,7 +40,7 @@ def parse_imports(file_path, parent_folder):
             result.append(os.path.join(parent_folder, i + ".py"))
     return result
     '''
-    return result
+    return list(set(result))
 
 
 def build_graph(folder_path):
